@@ -1,6 +1,6 @@
 ** Open directory **
 set more off 
-cd "/home/eugenio/Dropbox/data media&coordination/cleaneddata"
+cd // put the name of the working directory here
 
 clear 
 import excel "MEG.xlsx", sheet("Foglio1") firstrow
